@@ -62,4 +62,4 @@ Aplicación de escritorio en Python para la mesa de control: registra el partido
 ## Autor
 
 **Mauricio Zúñiga Medina** · Ingeniero Civil en Computación (UTEM)
-[myclubhub.cl](https://myclubhub.cl) · mauro@myclubhub.cl
+[myclubhub.cl](https://myclubhub.cl) · mauro.zm02@gmail.com
